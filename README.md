@@ -85,7 +85,7 @@ You can simply access the **Extension Manager** in the left toolbar (or press `C
 
 ![Screenshot of Notepad Plus Plus](https://notepad-plus-plus.org/assets/images/notepad4ever.png)
 
-*Unfortunately there doesnt seem to be a plugin/feature as counterpart to "rainbow-indent", but you can make indentation more visible in Np++ atleast: In Settings, Style Configurator, Global Styles, Indent Guideline Style, you change the Foreground color to something more visible. This will change the color of the vertical line that shows the indentation, but it wont rotate between different colors like rainbow-indent does. [Here is a simple example](https://i.imgur.com/HMEKhR9.png) of what it can look like then.*
+*Unfortunately there doesnt seem to be a plugin/feature as counterpart to "rainbow-indent", but you can make indentation more visible in Np++ atleast: In Settings, Style Configurator, Global Styles, Indent Guideline Style, you change the Foreground color to something more visible. This will change the color of the vertical line that shows the indentation, but it wont rotate between different colors like rainbow-indent does. Here is a example of what it can look like then:*
 
 ![Screenshot of Notepad Plus Plus styling](/docs/assets/004.png)
 
