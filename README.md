@@ -21,7 +21,7 @@ For example, someone who is using **Wordpad** with the font *Times New Roman* to
 
 This is going to start with VSCode first, not because "*OMG <3 Microsoft!1*" but simply because its free and available on Windows, Mac and Linux.
 
-# **Visual Studio Code (VSCode)**
+# **Visual Studio Code (VS Code)**
 
 *This one is quite popular but has a more "heavyweight" feel to it. However on a half decent computer it loads and reacts very well, its not like a Photoshop. But it might appear to be too much for some people if all they want to do is edit their .yml to add a Halloween collection for Plex. Even just the name might suggest that this is "for doing real programming" and not for simple things like editing a few config files. But dont let that scare you. Simply put, it can do a lot, but do you really need a lot?... Simple to install and use, shouldnt be confusing to most users.*
 
@@ -51,7 +51,7 @@ This is going to start with VSCode first, not because "*OMG <3 Microsoft!1*" but
 
 **Website: [https://code.visualstudio.com](https://code.visualstudio.com)**
 
-# **VSCodium (VSCode alternative)**
+# **VSCodium (VS Code alternative)**
 
 *"Why does this exist? VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code. [...] Microsoft’s vscode source code is open source (MIT-licensed), but the product available for download (Visual Studio Code) is licensed under this not-FLOSS license and contains telemetry/tracking."*
 
@@ -65,7 +65,23 @@ This is going to start with VSCode first, not because "*OMG <3 Microsoft!1*" but
 
 **Website: [https://vscodium.com](https://vscodium.com)**
 
-These **extensions** are highly recommended and work in both **VSCode and VSCodium**:
+# **Code-Server (VS Code in your browser, selfhosted)**
+
+*"Run VSCode on any machine anywhere and access it in the browser."*
+
+*If you are into PMM and Plex, chances are you might also be into self-hosting other things. So a quick mention goes to VSCode running in a browser. Yes, the full application can be selfhosted and used from any (modern) browser, saving you from having to install it. In some setups this can be very useful, or it doesnt appeal to you at all. Not much more to say about this, everything that was said about VSCode/Codium should mostly apply to Code-Server too.*
+
+*You could install it directly on a host, or run it in a container. A [Docker image](https://docs.linuxserver.io/images/docker-code-server) for example is provided by Linuxserver.io*
+
+**Platforms:**
+
+* The server should run anywhere Docker images can be run, AMD64 and ARM64 arch. Clients only need a half-modern browser to access.*
+
+**Website: [https://github.com/coder/code-server](https://github.com/coder/code-server)**
+
+# VS Code extensions
+
+These **extensions** are highly recommended and should work **VS Code, VSCodium and selfhosted Code-server**:
 
 ![Example GIF of YAML Language Support extensions](https://raw.githubusercontent.com/redhat-developer/vscode-yaml/main/images/demo.gif)
 
