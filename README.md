@@ -77,7 +77,7 @@ These **extensions** are highly recommended and work in both **VSCode and VSCodi
 
 **[SSH_FS extension](https://open-vsx.org/extension/Kelvin/vscode-sshfs)** by Kelvin Schoofs. *Not directly YML-related, but if you dont run PMM directly on your computer, but on a NAS or a secondary computer etc, you might want to consider something like this. It allows you to mount the folder with your PMM config files directly into VSCode and work on them, without having to up/download them manually after each edit.*
 
-You can simply access the **Extension Manager** in the left toolbar (or press CTRL+SHIFT+X) and then **search the marketplace** and install them.
+You can simply access the **Extension Manager** in the left toolbar (or press `CTRL + SHIFT + X`) and then **search the marketplace** and install them.
 
 # Notepad++
 
