@@ -104,4 +104,4 @@ Recommended plugin:
 
 Coming soon™
 
-For further questions, join our Discord server at https://discord.gg/NfH6mGFuAB or the subreddit at https://www.reddit.com/r/PlexMetaManager/
+For further questions, join our [Discord server](https://discord.gg/NfH6mGFuAB) or the subreddit at [/r/PlexMetaManager](https://www.reddit.com/r/PlexMetaManager/)
