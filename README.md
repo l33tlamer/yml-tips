@@ -6,7 +6,10 @@ A good editor can help a lot by assisting with having the **correct indent** for
 
 It can also display the code much more convient to make it nicer to work with and spot errors, or just to navigate around in a file by **highlighting certain things** and **coloring indents** etc.
 
-Here is a quick example of how a config.yml from PMM can [look like in standard Notepad](https://i.imgur.com/lH5T2Zu.png) versus how it can [look like in VSCode](https://i.imgur.com/B626oH5.png).
+Here is a quick example of how a config.yml from PMM can look like in standard Notepad versus how it can look like in VSCode:
+
+![Screenshot of standard Notepad](/docs/assets/001.png)  
+![Screenshot of VSCode with extensions](/docs/assets/002.png)
 
 **A good choice of font** can also help by making it more distinct where a indent is correct and where it isnt.
 
