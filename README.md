@@ -1,8 +1,10 @@
 Hello everyone,
 
-**this post is to simply show a quick overview of popular editors that people might want to consider to edit their .yml (YAML) files for use with PlexMetaManager (PMM).**
+**this post is to simply show a quick overview of popular editors that people might want to consider to edit their .yml (YML/YAML) files for use with PlexMetaManager (PMM).**
 
-A good editor can help a lot by assisting with having the **correct indent** for PMM (multiples of 2 spaces, no TAB stops, etc.), general checking of **YAML structure** and warning of **possible errors**, even before you run the file through PMM. This can **save a lot of time** and avoid headaches, before having to troubleshoot within PMM. You should also consider giving our quick [YAML Tutorial](https://metamanager.wiki/en/latest/home/guides/yaml.html) on the PMM Wiki page a read.
+You should also consider giving our quick [YML Tutorial](https://metamanager.wiki/en/latest/home/guides/yaml.html) on the PMM Wiki a read to learn about quirks and features of YML.
+
+A good editor can help a lot by assisting with having the **correct indent** for PMM (multiples of 2 spaces, no TAB stops, etc.), general checking of **YML structure** and warning of **possible errors**, even before you run the file through PMM. This can **save a lot of time** and avoid headaches, before having to troubleshoot within PMM. 
 
 It can also display the code much more convient to make it nicer to work with and spot errors, or just to navigate around in a file by **highlighting certain things** and **coloring indents** etc.
 
