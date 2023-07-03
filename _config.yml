@@ -6,11 +6,12 @@ description: "Make your PlexMetaManager life easier"
 permalink: date
 
 #remote_theme: pages-themes/modernist@v0.2.0
-remote_theme: pages-themes/midnight@v0.2.0
-#theme: minima 
+#remote_theme: pages-themes/midnight@v0.2.0
+theme: minimal
 plugins:
 - jekyll-remote-theme
 
 exclude:  
 - .gitignore
 - _config.yml
+- CNAME
