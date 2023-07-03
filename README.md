@@ -9,7 +9,7 @@ It can also display the code much more convient to make it nicer to work with an
 Here is a quick example of how a config.yml from PMM can look like in standard Notepad versus how it can look like in VSCode:
 
 ![Screenshot of standard Notepad](/docs/assets/001.png)  
-![Screenshot of VSCode with extensions](/docs/assets/002.png)
+![Screenshot of VSCode](/docs/assets/002.png)
 
 **A good choice of font** can also help by making it more distinct where a indent is correct and where it isnt.
 
@@ -25,9 +25,11 @@ This is going to start with VSCode first, not because "*OMG <3 Microsoft!1*" but
 
 *The (monospace, that means every character takes up the same width, wether its a `x`or `i`) font and syntax color highlighting for PMM .yml should already work good by default. You can adjust font faces, sizes and more in the options.*
 
-*Here is a [example picture](https://i.imgur.com/QatiHPR.png) of how VSCode/VSCodium can look with the recommended extensions mentioned below.*
+*Here is a example picture of how VSCode/VSCodium can look with the recommended extensions mentioned below:*
 
-*By default it will already detect the indents being used in a (PMM .yml) file and adjust the use of TAB accordingly. This means pressing the TAB key will result in adding 2 spaces instead of a TAB-STOP or more/less spaces to make it work with PMM. The feature is called "**Editor: Detect Indentation**" and can be further adjusted in the Settings menu.*
+![Screenshot of VSCode with extensions](/docs/assets/003.png)
+
+*By default it will already detect the indents being used in a (PMM .yml) file and adjust the use of TAB accordingly. This means pressing the TAB key will result in adding 2 spaces instead of a TAB-STOP or more/less spaces to make it work with PMM. The feature is called "**Editor: Detect Indentation**" and can be further adjusted in the Settings menu. So even if you´re the genius founder of Pied Piper and you care A LOT about [TABs and Spaces](https://www.youtube.com/watch?v=SsoOG6ZeyUI), you should be able to make it work.*
 
 *And it is good idea to disable the option "Editor: Copy with Syntax Highlighting" because this can cause issues when you have trouble with PMM and you copy code from VSCode into your clipboard and you want to paste it  n Reddit or for example into the PMM Discord when looking for support.*
 
@@ -63,11 +65,15 @@ This is going to start with VSCode first, not because "*OMG <3 Microsoft!1*" but
 
 These **extensions** are highly recommended and work in both **VSCode and VSCodium**:
 
-* **[YAML Language Support](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)** by RedHat. *Detects errors in the YAML format, helps with autocomplete, etc. ([Example GIF](https://raw.githubusercontent.com/redhat-developer/vscode-yaml/main/images/demo.gif))*
+![Example GIF of YAML Language Support extensions](https://raw.githubusercontent.com/redhat-developer/vscode-yaml/main/images/demo.gif)
 
-* **[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)** by oderwat. *Colorizes the indentation and alternating the colors, making it very easy to see which indent refers to what etc. ([Example Picture](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png))*
+**[YAML Language Support](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)** by RedHat. *Detects errors in the YAML format, helps with autocomplete, etc.
 
-If you dont run PMM directly on your computer, but on a NAS or a secondary computer etc, you might want to consider something like the **[SSH_FS extension](https://open-vsx.org/extension/Kelvin/vscode-sshfs)** by Kelvin Schoofs. It allows you to mount the folder with your PMM config files directly into VSCode and work on them, without having to up/download them manually after each edit.
+![Example screenshot of Indent-Rainbow extension](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
+
+**[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)** by oderwat. *Colorizes the indentation and alternating the colors, making it very easy to see which indent refers to what etc. ([Example Picture](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png))*
+
+Not exactly YML-related, but if you dont run PMM directly on your computer, but on a NAS or a secondary computer etc, you might want to consider something like the **[SSH_FS extension](https://open-vsx.org/extension/Kelvin/vscode-sshfs)** by Kelvin Schoofs. It allows you to mount the folder with your PMM config files directly into VSCode and work on them, without having to up/download them manually after each edit.
 
 You can simply access the **Extension Manager** in the left toolbar (or press CTRL+SHIFT+X) and then **search the marketplace** and install them.
 
