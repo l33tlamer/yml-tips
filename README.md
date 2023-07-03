@@ -67,13 +67,15 @@ These **extensions** are highly recommended and work in both **VSCode and VSCodi
 
 ![Example GIF of YAML Language Support extensions](https://raw.githubusercontent.com/redhat-developer/vscode-yaml/main/images/demo.gif)
 
-**[YAML Language Support](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)** by RedHat. *Detects errors in the YAML format, helps with autocomplete, etc.
+**[YAML Language Support](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)** by RedHat. *Detects errors in the YAML format, helps with autocomplete, etc.*
 
 ![Example screenshot of Indent-Rainbow extension](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
 
-**[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)** by oderwat. *Colorizes the indentation and alternating the colors, making it very easy to see which indent refers to what etc. ([Example Picture](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png))*
+**[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)** by oderwat. *Colorizes the indentation and alternating the colors, making it very easy to see which indent refers to what etc.*
 
-Not exactly YML-related, but if you dont run PMM directly on your computer, but on a NAS or a secondary computer etc, you might want to consider something like the **[SSH_FS extension](https://open-vsx.org/extension/Kelvin/vscode-sshfs)** by Kelvin Schoofs. It allows you to mount the folder with your PMM config files directly into VSCode and work on them, without having to up/download them manually after each edit.
+![Example screenshot of SSH_FS extension](https://raw.githubusercontent.com/SchoofsKelvin/vscode-sshfs/master/media/shell-tasks.png)
+
+**[SSH_FS extension](https://open-vsx.org/extension/Kelvin/vscode-sshfs)** by Kelvin Schoofs. *Not directly YML-related, but if you dont run PMM directly on your computer, but on a NAS or a secondary computer etc, you might want to consider something like this. It allows you to mount the folder with your PMM config files directly into VSCode and work on them, without having to up/download them manually after each edit.*
 
 You can simply access the **Extension Manager** in the left toolbar (or press CTRL+SHIFT+X) and then **search the marketplace** and install them.
 
@@ -107,7 +109,11 @@ Recommended plugin:
 
 # Windows Terminal
 
-*For Windows OS users when running PMM, having a much nicer to look at terminal can make a nice difference too. Also if it uses a  good monospace font, such as the above mentioned Fira Code. Here are example screenshots, [one](https://imgur.com/vQ2vpk9) and [two](https://github.com/cristipufu/windows-terminal-vscode-theme/raw/master/windows-terminal-vs-code-theme.JPG). This new and much improved app by Microsoft is a "all-in-one" for doing the classic Windows Command Prompt, Windows PowerShell and even the Microsoft Azure Shell. It can use various fonts, themes, optional always run as Admin, font anti-aliasing and so much more. If you also use VSCode to edit your YML, [there is a theme](https://github.com/cristipufu/windows-terminal-vscode-theme) to make the terminal have mostly the same look as VSCode. And there is a whole website dedicated to [Terminal themes](https://windowsterminalthemes.dev/).*
+*For Windows OS users when running PMM, having a much nicer to look at terminal can make a nice difference too. Also if it uses a  good monospace font, such as the above mentioned Fira Code. Here is a example of what you could make it look like:*
+
+![Screenshot of Windows Terminal with theme](/docs/assets/005.png)
+
+*This new and much improved app by Microsoft is a "all-in-one" for doing the classic Windows Command Prompt, Windows PowerShell and even the Microsoft Azure Shell. It can use various fonts, themes, optional always run as Admin, font anti-aliasing and so much more. If you also use VSCode to edit your YML, [there is a theme](https://github.com/cristipufu/windows-terminal-vscode-theme) to make the terminal have mostly the same look as VSCode. And there is a whole website dedicated to [Terminal themes](https://windowsterminalthemes.dev/).*
 
 *Its available either from GitHub as a installer, or from the Windows10/11 builtin Windows Store as a app.*
 
