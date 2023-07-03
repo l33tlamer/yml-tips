@@ -111,7 +111,7 @@ Recommended plugin:
 
 *For Windows OS users when running PMM, having a much nicer to look at terminal can make a nice difference too. Also if it uses a  good monospace font, such as the above mentioned Fira Code. Here is a example of what you could make it look like:*
 
-![Screenshot of Windows Terminal with theme](/docs/assets/005.png)
+![Screenshot of Windows Terminal with theme](/docs/assets/005.jpg)
 
 *This new and much improved app by Microsoft is a "all-in-one" for doing the classic Windows Command Prompt, Windows PowerShell and even the Microsoft Azure Shell. It can use various fonts, themes, optional always run as Admin, font anti-aliasing and so much more. If you also use VSCode to edit your YML, [there is a theme](https://github.com/cristipufu/windows-terminal-vscode-theme) to make the terminal have mostly the same look as VSCode. And there is a whole website dedicated to [Terminal themes](https://windowsterminalthemes.dev/).*
 
