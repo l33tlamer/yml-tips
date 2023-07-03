@@ -137,8 +137,10 @@ Recommended plugin:
 
 **Website:** [https://github.com/microsoft/terminal](https://github.com/microsoft/terminal) (or [Windows Store](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701))
 
-# Other things
+# Things to note
 
-Coming soon™
+*Please not that these summaries are in no way meant to be exhaustive or a definitive source of knowledge. This is only a "quick" overview of alternatives that you could use to handle your YML files more easily, simply because we see a lot of PMM newcomers use things like Notepad or TextEdit and struggle a lot with simple things like formatting errors. There are of course many other editors around, like [SublimeText](https://www.sublimetext.com) for example. But we cant cover them all, and we wanted to keep this focused on the editors that are popular, well supported and maintained, and free to use. That leaves us with basically VS Code and NP++.*
 
 For further questions, join our [Discord server](https://discord.gg/NfH6mGFuAB) or the subreddit at [/r/PlexMetaManager](https://www.reddit.com/r/PlexMetaManager/)
+
+# EOF
