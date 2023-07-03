@@ -25,7 +25,7 @@ This is going to start with VSCode first, not because "*OMG <3 Microsoft!1*" but
 
 *This one is quite popular but has a more "heavyweight" feel to it. However on a half decent computer it loads and reacts very well, its not like a Photoshop. But it might appear to be too much for some people if all they want to do is edit their .yml to add a Halloween collection for Plex. Even just the name might suggest that this is "for doing real programming" and not for simple things like editing a few config files. But dont let that scare you. Simply put, it can do a lot, but do you really need a lot?... Simple to install and use, shouldnt be confusing to most users.*
 
-*The (monospace, that means every character takes up the same width, wether its a `x`or `i`) font and syntax color highlighting for PMM .yml should already work good by default. You can adjust font faces, sizes and more in the options.*
+*The font and syntax color highlighting for PMM .yml should already work good by default. You can adjust font faces, sizes and more in the options.*
 
 *Here is a example picture of how VSCode/VSCodium can look with the recommended extensions mentioned below:*
 
@@ -65,7 +65,7 @@ This is going to start with VSCode first, not because "*OMG <3 Microsoft!1*" but
 
 **Website: [https://vscodium.com](https://vscodium.com)**
 
-# **Code-Server (VS Code in your browser, selfhosted)**
+# **Code-Server (VS Code in your browser)**
 
 *"Run VSCode on any machine anywhere and access it in the browser."*
 
@@ -75,7 +75,7 @@ This is going to start with VSCode first, not because "*OMG <3 Microsoft!1*" but
 
 **Platforms:**
 
-* The server should run anywhere Docker images can be run, AMD64 and ARM64 arch. Clients only need a half-modern browser to access.*
+* Windows, Linux and Mac, wherever you can run the Docker image. Clients only need a half-modern browser to access.*
 
 **Website: [https://github.com/coder/code-server](https://github.com/coder/code-server)**
 
@@ -119,7 +119,7 @@ Recommended plugin:
 
 # Font
 
-*Personally i have used the free "FiraCode" font for a long time and got very used to it, it works excellent for things like this. It should work with basically all editors and it comes with different variations and ligatures. More details are on the FiraCode GitHub page linked below.*
+*Personally i have used the free "FiraCode" font for a long time and got very used to it, it works excellent for things like this. It should work with basically all editors and it comes with different variations and ligatures. More details are on the FiraCode GitHub page linked below. Whichever font you chose, it should be "monospace". That basically means every character is the same width, so a `x` takes up the same space as a `i` and the same as a empty space ` `, and as a result this keeps formatting in order.*
 
 *To use a different font in VSCode/VSCodium, go to "File, Preferences, Settings". Under "Commonly Used" expand the "Text Editor" section and select Font. In the "Font Family" box enter the exact name of the font, such as "Fira Code". You can also chose a different variation of the font here if you enter "Fira Code Light" instead as the name, or "Fira Code Retina" which is optimized for high-resolution displays. And you can change the font size of course. If you want to enable the special ligatures that this font has, right below this there is a setting for "Font Ligatures" and you can click on "Edit in settings.json". It will open up the VSCode config file and the font ligature should already be selected. Change the option from "false" to "true" and save the file, then you can restart VSCode.*
 
