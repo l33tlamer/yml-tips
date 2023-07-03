@@ -104,5 +104,4 @@ Recommended plugin:
 
 Coming soon™
 
-For immediate assistance, please email our customer support: support@toptal.com
-
+For further questions, join our Discord server at https://discord.gg/NfH6mGFuAB or the subreddit at https://www.reddit.com/r/PlexMetaManager/
