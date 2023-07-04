@@ -1,3 +1,7 @@
+# Make your PlexMetaManager life easier
+
+<br>
+
 Hello everyone,
 
 **this post is to simply show a quick overview of popular editors that people might want to consider to edit their .yml (YML/YAML) files for use with PlexMetaManager (PMM).**
