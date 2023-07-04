@@ -3,11 +3,19 @@
 body {
   background: #FF0000;
 }
+#container {
+  min-height: 595px;
+  background: #FF0000;
+}
 
 @import "{{ site.theme }}";
 .page-header {
        background-color: #FF0000;
 }
 body {
+  background: #FF0000;
+}
+#container {
+  min-height: 595px;
   background: #FF0000;
 }
