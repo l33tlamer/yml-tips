@@ -69,13 +69,13 @@ This is going to start with VSCode first, not because "*OMG <3 Microsoft!1*" but
 
 *"Run VSCode on any machine anywhere and access it in the browser."*
 
-*If you are into PMM and Plex, chances are you might also be into self-hosting other things. So a quick mention goes to VSCode running in a browser. Yes, the full application can be selfhosted and used from any (modern) browser, saving you from having to install it. In some setups this can be very useful, or it doesnt appeal to you at all. Not much more to say about this, everything that was said about VSCode/Codium should mostly apply to Code-Server too.*
+*If you are into PMM and Plex, chances are you might also be into self-hosting other things. So a quick mention goes to VSCode running in a browser. Yes, the full application can be selfhosted and used from any browser, saving you from having to install it. In some setups this can be very useful, or it doesnt appeal to you at all. Not much more to say about this, everything that was said about VSCode/Codium should mostly apply to Code-Server too.*
 
 *You could install it directly on a host, or run it in a container. A [Docker image](https://docs.linuxserver.io/images/docker-code-server) for example is provided by Linuxserver.io*
 
 **Platforms:**
 
-* Windows, Linux and Mac, wherever you can run the Docker image. Clients only need a half-modern browser to access.*
+* Windows, Linux and Mac, wherever you can run the Docker image. Clients only need a half-modern browser to access.
 
 **Website: [https://github.com/coder/code-server](https://github.com/coder/code-server)**
 
