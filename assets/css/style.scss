@@ -1,5 +1,7 @@
 ---
 ---
+
+@import "{{ site.theme }}";
 body {
   background: #FF0000;
 }
@@ -7,5 +9,3 @@ body {
   min-height: 595px;
   background: #FF0000;
 }
-
-@import "{{ site.theme }}";
