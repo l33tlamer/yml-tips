@@ -1,5 +1,3 @@
-# Make your PlexMetaManager life easier
-
 <br>
 
 Hello everyone,
