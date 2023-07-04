@@ -1,7 +1,8 @@
 title: "Tips & Editors for YML"
 description: "Make your PlexMetaManager life easier"
 
-#url: # (optional) https://example.com, defaults to http://localhost:4000 in development
+baseurl: /yml-tips
+url: https://l33tlamer.github.io
 
 permalink: date
 
